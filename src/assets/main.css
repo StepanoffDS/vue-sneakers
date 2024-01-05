@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #ffffff;
+}
+
+body {
+  background-color: rgb(247, 254, 231);
+}
